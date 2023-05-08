@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    top: 0;
+    padding: 0%;
+    border: 0%;
+    background-color:  #F9F5E7;
+}
+#topthing{
+    margin: 0%;
+    top: 0;
+    padding: 0%;
+    border: 0%;
+    background-color: #A7727D;
+}
+h1{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+}
+h2{
+    text-align: center;
+    font-family: 'Bruno Ace',serif;
+}
+.pappapic{
+    display: block;
+    margin: auto ;
+    text-align: center;
+    height : 50%;
+    width : 30%;
+   border-radius: 100%;
+}
+h3{
+    margin: auto auto 0 auto;
+    text-align: center;
+}
+p{
+    margin : 10 auto auto auto;
+    text-align: center;
+    line-height: 140%;
+    margin: 10%;
+}
+/*https://colorhunt.co/palette/ccd5aee9edc9fefae0faedcd*/
+/*https://colorhunt.co/palette/a7727deddbc7f8ead8f9f5e7*/
